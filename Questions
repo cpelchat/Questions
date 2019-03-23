@@ -1,0 +1,35 @@
+To keep a set of name seperate from others.
+Are variables that can be assigned directly.
+Objects linked in the memory that contains data.
+Makes properys more concise with no additional logic.
+To define a boundry of an object outside of which the object is automaticlly destroyed
+It can interact with an object without having to cast it.
+To check the object type an dreturns to a bool value.
+It allows you to define a specification of the data type of the elements in a class.
+Public access specifier allows a class to expose its member variables and member functions to other functions and objects.
+Yes.
+Descending order largest to smallest.
+Allows you to assign null value type variables, to return flase.
+Is a set of named integer constants.
+The ability to create a class that inherits attributes and behaviors from another class.
+Yes.
+It returns the object if they are compatible to that type or it returns null.
+Its a keyword that is an alias for the predefined type System.
+Structs are value types and Classes are a reference types.
+Break terminates a loop and contines forces the next part of the loop.
+Represents the pointer of the class, when you need to pass an instance of the current class to another.
+They represent the handleing of exceptions due to data.
+By using the try and catch blocks.
+It executes the try and catch blocks.
+Arry is fixed and arraylist is variable.
+Its a keyword that is an alias for the predefined type System.
+They usually initialize the data members of the new object.
+It can only be used when a local variable is declared and initialized in the same statement.
+It allows you to create classes and class members that are incomplete and must be implemented in a derived class.
+Its like the abstract based class.
+It is a code block that contains a series of statements.
+It is a member that provides a flexible tool to read and write the value of a private field.
+It describes the scope of accessibility of an object.
+Public (can be accessed from anywhere), private(accessible only inside teh class declared), protected(accesible from within the class derived), internal(can can access within the program that contain its declarations and also access within the same assembly level but not from another assembly) and protected internal(It can access anywhere in the same assembly and in the same class also the classes inherited from the same class)
+It allocates memory dynamically to elements and accessing a list of items on the basis of an index.
+It is a collection of key-and-value pairs that are organized based on the hash code of the key.
